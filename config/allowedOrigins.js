@@ -4,7 +4,7 @@ const allowedOrigins = [
     'http://localhost:4200',
     'http://localhost:5174',
     'http://localhost:5175',
-    'https://mellow-churros-8c35c8.netlify.app'
+    'https://sai-sampath-blog.netlify.app'
 
 ];
 
